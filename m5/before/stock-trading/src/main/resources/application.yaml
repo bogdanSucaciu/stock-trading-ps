@@ -1,0 +1,10 @@
+server:
+  port: 8010
+spring:
+  mongodb:
+    embedded:
+      version: 3.5.5
+
+clients:
+  stockMarket:
+    baseUrl: "http://localhost:8050"
