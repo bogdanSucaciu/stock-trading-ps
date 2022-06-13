@@ -1,0 +1,6 @@
+server:
+  port: 9999
+
+spring:
+  main:
+    web-application-type: none
